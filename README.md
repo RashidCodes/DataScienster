@@ -1,2 +1,2 @@
-# DataScienster
+# DataSciencester
 Basic Data Science tasks 
